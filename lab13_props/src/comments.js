@@ -1,6 +1,4 @@
 import React from "react";
-import './index';
-
 
 const User = function(props){
     return(
@@ -23,3 +21,4 @@ const User = function(props){
 }
 
 export default User;
+
